@@ -812,11 +812,11 @@ section .item2 p {
 }
 
 .teacher h3 {
-  font-size: 24px;
-  color: #ffffff;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Tahoma, Geneva, Verdana, sans-serif;
-  text-transform: uppercase;
   text-align: center;
+            text-transform: uppercase;
+            font-size: 24px;
+            font-family: 'Russo One', sans-serif;
+            color: #ffffff;
 }
 
 .teacher hr {
