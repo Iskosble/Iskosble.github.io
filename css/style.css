@@ -1060,7 +1060,11 @@ section .item2 p {
 }
 
 footer {
-  background: rgb(91, 214, 20);;
+  background: rgb(91, 214, 20);
+  border: 2px solid rgb(64, 185, 27);
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
 }
 
 footer .footer_box {
