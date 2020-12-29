@@ -360,6 +360,10 @@
   background: rgb(91, 214, 20);
   padding: 30px 0;
   z-index: 101;
+  border: 2px solid rgb(64, 185, 27);
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
 }
 
 .menu_navbar {
