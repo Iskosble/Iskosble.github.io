@@ -297,7 +297,7 @@
 
 .callme {
   padding: 20px 0;
-  background: #eefc2c;
+  background: rgb(74, 179, 14);
   text-align: center;
 }
 
@@ -357,7 +357,7 @@
 .menu {
   width: 100%;
   min-height: 10px;
-  background: #ec1313;
+  background: rgb(91, 214, 20);
   padding: 30px 0;
   z-index: 101;
 }
@@ -391,7 +391,7 @@
   text-transform: uppercase;
   font-family: 'Permanent Marker', cursive;
   font-size: 25px;
-  color: #cad433;
+  color: rgb(225, 238, 38);
 }
 
 .menu_navbar a span strong {
@@ -1056,7 +1056,7 @@ section .item2 p {
 }
 
 footer {
-  background: #22ece2;
+  background: rgb(74, 179, 14);
 }
 
 footer .footer_box {
